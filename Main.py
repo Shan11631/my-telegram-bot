@@ -3,8 +3,8 @@ from telethon import TelegramClient, events
 from telethon.sessions import StringSession
 
 # Get values from Railway environment
-API_ID = int(os.getenv("API_ID"))
-API_HASH = os.getenv("API_HASH")
+API_ID = int(os.getenv("25898893"))
+API_HASH = os.getenv("74e7a45148e7e532d432191f69bcfe9c")
 SESSION = os.getenv("SESSION")
 
 # Initialize Telegram client
